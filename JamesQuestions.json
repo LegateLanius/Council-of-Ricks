@@ -1,0 +1,50 @@
+{
+	"index": 6
+	"1": {
+	"a": "a) x=1",
+	"b": "b) x=3",
+	"c": "c) x=6",
+	"d": "d) x=8",
+	"q": "1) Solve the equation: 6x+9=9x+1?"
+	
+	}
+"2": {
+	"a": "All sides of a scalene triangle are different in both angles and length",
+	"b": "Incorrect",
+	"c": "c) All the sides of a scalene triangle are the same but the angles are different. ",
+	"d": "d) All angles of a scalene triangle are different but all the sides are the same length",
+	"q": "2) What are the properties of a scalene triangle?"
+  }
+  "3": {
+  "a": "a) n",
+  "b": "b) 2n",
+  "c": "c) 3n",
+  "d": "d) 3n squared",
+  "q": "3) What is the nth term of the sequence: 1,2,3,4,5,6,7,8,9?"
+  }
+  
+  "4": {
+  "a": "a) -7n-6",
+  "b": "b) 3n+112",
+  "c": "c) -9n+67",
+  "d": "d) -3n+1
+  "q": "4) Find the nth term of the sequence -13,-20,-27,-34."
+  }
+  
+ "5": {
+ "a": "a) 469.99"
+ "b": "b) 666.44391"
+ "c": "c) 389.56"
+ "d": "d) 54.3"
+ "q": "5) What is 70.89+399.1"
+ }
+ 
+ "6": {
+ "a": "a) 35.73"
+ "b": "b) 67.43"
+ "c": "c) 345.34"
+ "d": "d) 53.34"
+ "q": "6) Increase 9 by 297%"
+ }
+  
+  
